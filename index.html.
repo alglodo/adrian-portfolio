@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adrian L. Glodo | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h2>ADRIAN GLODO</h2>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <div>
+            <p class="welcome">WELCOME TO MY PORTFOLIO</p>
+            <h1>Hello, I'm <span>Adrian L. Glodo</span></h1>
+            <h3>BS Computer Science Student</h3>
+            <p>3-CS4 | Calamba City College</p>
+            <a href="#about" class="btn">Discover More</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I am Adrian L. Glodo, a Bachelor of Science in Computer Science
+            student at Calamba City College. I am passionate about technology,
+            programming, and learning new skills in web development.
+        </p>
+    </section>
+
+    <section id="skills">
+        <h2>My Skills</h2>
+        <div class="cards">
+            <div class="card">HTML</div>
+            <div class="card">CSS</div>
+            <div class="card">Basic JavaScript</div>
+            <div class="card">Problem Solving</div>
+        </div>
+    </section>
+
+    <section id="projects">
+        <h2>Featured Projects</h2>
+        <div class="card">
+            <h3>Personal Portfolio Website</h3>
+            <p>A personal website showcasing my background and skills.</p>
+        </div>
+        <div class="card">
+            <h3>Academic Programming Activities</h3>
+            <p>Programming exercises and school projects.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: Add your email here</p>
+        <p>Location: Calamba City, Laguna</p>
+    </section>
+
+    <footer>
+        <p>© 2026 Adrian L. Glodo | My Personal Portfolio</p>
+    </footer>
+
+</body>
+</html>
